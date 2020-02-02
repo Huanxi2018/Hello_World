@@ -1,2 +1,3 @@
 # Hello_World
-Just for primary learning~
+Hello everyone!
+I'm terry, I'm not just a coder!
